@@ -8,7 +8,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Bakery Hub Website Design",
         Text: "Thriving bakery community and top-ranked platform, The Bakery Hub inspires a delightful, creative, and rewarding sense of Wow! I really can bake and sell! for passionate home bakers and bakery business owners. Offering the best-selling baking guides and marketing tips, we help turn your love for baking into a thriving business. 🍪🎂",
-        view: "https://www.youtube.com/@StudyLoom24"
+        view: "https://deft-sunshine-de7405.netlify.app/"
     },
     {
         imgsrc: pro2,
