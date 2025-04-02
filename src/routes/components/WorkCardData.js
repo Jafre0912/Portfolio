@@ -14,7 +14,7 @@ const ProjectCardData = [
         imgsrc: pro2,
         title: "HealEase–Booking",
         Text: "A seamless healthcare platform enabling easy doctor appointment bookings, expert consultations, and personalized support for better patient care.",
-        view: "https://github.com/Jafre0912/DOCTOR-APPOINTMENT-BOOKING"
+        view: "https://heal-ease-appointment-web-app.onrender.com/"
     },
     {
         imgsrc: pro3,
